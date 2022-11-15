@@ -13,5 +13,8 @@ There are things I'd like to improve, and things I think I designed well for the
 I'm going to approach this pretty procedurally. The main goal initially will be *discovering fundamental needs for representation*. I know that I want to explore media with this portfolio, so I'll focus on representing the structures I'd like to make consistent across dimensions.
 
 1. Audit
- - manually crawl the site, keeping track of links and screenshots
- - get lighthouse information for each page
+   1. Manual crawl
+      - keep track of links and forms
+      - gather [lighthouse](https://developer.chrome.com/docs/lighthouse/overview/) reports
+   2. Automated crawl
+      - [todo]
